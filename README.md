@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @fawkes-ak12
-- 👀 I’m interested in Tech and gadgets
-- 🌱 I’m currently learning javascript
+hi, im ak.
 
 
 <!---
